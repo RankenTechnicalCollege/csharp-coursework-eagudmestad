@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\csharp-coursework-eagudmestad\CH1\Demo1\bin\Debug\Demo1.exe.config
+C:\Users\Admin\Desktop\csharp-coursework-eagudmestad\CH1\Demo1\bin\Debug\Demo1.exe
+C:\Users\Admin\Desktop\csharp-coursework-eagudmestad\CH1\Demo1\bin\Debug\Demo1.pdb
+C:\Users\Admin\Desktop\csharp-coursework-eagudmestad\CH1\Demo1\obj\Debug\Demo1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\csharp-coursework-eagudmestad\CH1\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\csharp-coursework-eagudmestad\CH1\Demo1\obj\Debug\Demo1.exe
+C:\Users\Admin\Desktop\csharp-coursework-eagudmestad\CH1\Demo1\obj\Debug\Demo1.pdb
